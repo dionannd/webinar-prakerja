@@ -8,4 +8,4 @@ figma [here](<https://www.figma.com/file/z7k9pRlcZqEYUViuYRRZgr/Bantu-Warga-Web-
 
 ## Screenshot
 
-![Screenshots](https://github.com/dionannd/webinar-prakerja/images/ss.png)
+![Screenshots](https://github.com/dionannd/webinar-prakerja/blob/main/images/ss.png)
