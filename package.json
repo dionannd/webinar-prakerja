@@ -1,0 +1,15 @@
+{
+  "name": "kp-dian-ananda",
+  "version": "1.0.0",
+  "description": "Webinar Ujian keterampilan KP-Dian Ananda",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss -i src/main.css -o dist/output.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dionannd",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
